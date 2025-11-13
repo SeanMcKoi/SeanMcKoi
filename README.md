@@ -1,6 +1,6 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanMckoi&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanMcKoi&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanMckoi&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanMcKoi&layout=compact&theme=transparent)
 
 <!--
 **SeanMcKoi/SeanMcKoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
