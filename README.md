@@ -1,3 +1,6 @@
+### 📊 GitHub Stats
 
-📊 GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=SeanMcKoi&show_icons=true&theme=radical"> </a> <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanMcKoi&langs_count=8&layout=compact&theme=radical"> </a>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeanHansen&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanHansen&layout=compact&langs_count=8&theme=radical" />
+</p>
