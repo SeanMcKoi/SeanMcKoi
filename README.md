@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeanMcKoi&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SeanMcKoi&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanMcKoi&layout=compact&theme=transparent)
