@@ -1,6 +1,10 @@
 ### 📊 GitHub Stats
 
-<div>
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=SeanMcKoi&show_icons=true&theme=radical" />
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanMcKoi&layout=compact&langs_count=8&theme=radical" />
-</div>
+<a href="https://github.com/SeanMcKoi">
+  <img height="200" align="center"
+       src="https://github-readme-stats.vercel.app/api?username=SeanMcKoi&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/SeanMcKoi">
+  <img height="200" align="center"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanMcKoi&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=tokyonight" />
+</a>
